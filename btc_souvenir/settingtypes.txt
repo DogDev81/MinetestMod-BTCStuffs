@@ -1,0 +1,2 @@
+[Souvenir Texture Size]
+souvenir_size (Sizes) enum 32px 64px,32px,16px
