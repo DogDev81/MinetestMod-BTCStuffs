@@ -7,10 +7,11 @@ BTC Stuffs brings iconic items from the Bitcoin universe to your Minetest world.
 
 ## Mods Included (alias):
 
-- btc_pizza
-- btc_souvenir
-- btc_orange_pill
-- btc_laser_eyes
+- [btc_pizza](./pizza)
+- [btc_souvenir](./btc_souvenir)
+- [btc_orange_pill](./orange_pill)
+- [btc_laser_eyes](./laser_eyes_minetest) for Minetest_game
+- [btc_laser_eyes](./laser_eyes_mcl2) for MCL2
 
 
 ## Features:
